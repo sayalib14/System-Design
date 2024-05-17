@@ -2,7 +2,7 @@
 
 To understand the concepts, please follow the sequence
 
-1. [Scaling] (https://devscriptsaga.com/2024/05/02/scaling-from-zero-to-hero-1/)
+1. [Scaling](https://devscriptsaga.com/2024/05/02/scaling-from-zero-to-hero-1/).
 2. Vertical vs Horizontal Scaling
 3. Load Balancer
 4. Database Replication
